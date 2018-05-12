@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2457
     wikipedia: http://en.wikipedia.org/wiki/Ring_Lardner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16929#Treat-em-Rough--Letters-from-Jack-the-Kaiser-Killer
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-10-23'
 gutenberg_type: Text
